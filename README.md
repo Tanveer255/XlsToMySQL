@@ -89,7 +89,7 @@ except Exception as e:
 
 ## Support
 
-If you encounter any issues or have questions, feel free to reach out for assistance.
+If you encounter any issues or have questions, feel free to reach out for assistance:
 
-Tanveer255(https\://github.com/Tanveer255)\
-Muhammad Tanveer([https://www.linkedin.com/in/muhammad-tanveer-5b0a111a0/](https://www.linkedin.com/in/muhammad-tanveer-5b0a111a0/))
+- [Tanveer255](https://github.com/Tanveer255)
+- [Muhammad Tanveer](https://www.linkedin.com/in/muhammad-tanveer-5b0a111a0/)
