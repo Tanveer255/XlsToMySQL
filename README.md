@@ -49,10 +49,10 @@ import pandas as pd
 from sqlalchemy import create_engine
 
 # Securely fetch credentials
-hostname = os.getenv('MYSQL_HOST', '192.168.0.12')
-username = os.getenv('MYSQL_USER', 'edge')
-password = os.getenv('MYSQL_PASS', 'ko7Mar^e8cAQc')
-database = os.getenv('MYSQL_DB', 'edge_AuthServer_dev_db')
+hostname = os.getenv('MYSQL_HOST', 'yourHostName')
+username = os.getenv('MYSQL_USER', 'YourUserName')
+password = os.getenv('MYSQL_PASS', 'YourPassword')
+database = os.getenv('MYSQL_DB', 'yourDatabaseName')
 
 # MySQL connection
 engine = create_engine(f'mysql+pymysql://{username}:{password}@{hostname}/{database}')
